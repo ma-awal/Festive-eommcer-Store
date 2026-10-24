@@ -1,0 +1,66 @@
+{
+  "name": "জাইরা",
+  "tagline": "ঐতিহ্য ও আভিজাত্যের নিখুঁত মেলবন্ধন",
+  "description": "প্রিমিয়াম কোয়ালিটির এক্সক্লুসিভ পাঞ্জাবি ও খাঁটি দেশীয় শাড়ির বিশ্বস্ত প্রতিষ্ঠান।",
+  "currency": "৳",
+  "logo": {
+    "icon": "",
+    "iconFooter": ""
+  },
+  "nav": [
+    { "label": "হোম", "href": "/" },
+    { "label": "সকল কালেকশন", "href": "/shop" },
+    { "label": "ক্যাটাগরি", "href": "/shop", "dropdown": "categories" },
+    { "label": "আমাদের সম্পর্কে", "href": "/about" },
+    { "label": "যোগাযোগ", "href": "/contact" }
+  ],
+  "tabBar": [
+    { "label": "হোম", "href": "/", "icon": "home" },
+    { "label": "শপ", "href": "/shop", "icon": "bag" },
+    { "label": "পছন্দ", "href": "/wishlist", "icon": "heart" },
+    { "label": "কার্ট", "href": "/cart", "icon": "cart" },
+    { "label": "অর্ডার", "href": "/order", "icon": "package" }
+  ],
+  "quickLinks": [
+    { "label": "হোম", "href": "/" },
+    { "label": "পাঞ্জাবি কালেকশন", "href": "/shop?category=panjabi" },
+    { "label": "শাড়ি কালেকশন", "href": "/shop?category=shari" },
+    { "label": "আমাদের সম্পর্কে", "href": "/about" },
+    { "label": "যোগাযোগ", "href": "/contact" }
+  ],
+  "shipping": {
+    "freeOver": 3000,
+    "fee": 100,
+    "estimate": "২ - ৪ কার্যদিবস"
+  },
+  "promoCodes": [
+    { "code": "EID30", "percent": 30 },
+    { "code": "ZYRA10", "percent": 10 }
+  ],
+  "contact": {
+    "email": "support@zyra.com.bd",
+    "phone": "+880 1700-000000",
+    "address": "বাড়ি ১২, রোড ৫, ধানমন্ডি, ঢাকা - ১২০৫",
+    "hours": "প্রতিদিন সকাল ১০:০০ - রাত ৯:০০"
+  },
+  "social": [
+    { "name": "Facebook", "icon": "facebook", "href": "https://facebook.com" },
+    {
+      "name": "Instagram",
+      "icon": "instagram",
+      "href": "https://instagram.com"
+    },
+    { "name": "TikTok", "icon": "tiktok", "href": "https://tiktok.com" },
+    { "name": "YouTube", "icon": "youtube", "href": "https://youtube.com" }
+  ],
+  "newsletter": {
+    "title": "নিউজলেটারে সাবস্ক্রাইব করুন",
+    "text": "নতুন কালেকশন এবং বিশেষ অফার ও ছাড়ের আপডেট সবার আগে পেতে আপনার ইমেইল দিন।",
+    "placeholder": "আপনার ইমেইল অ্যাড্রেস লিখুন",
+    "success": "ধন্যবাদ! আপনি সফলভাবে সাবস্ক্রাইব করেছেন।"
+  },
+  "legalLinks": [
+    { "label": "প্রাইভেসি পলিসি", "href": "/privacy" },
+    { "label": "শর্তাবলী", "href": "/terms" }
+  ]
+}

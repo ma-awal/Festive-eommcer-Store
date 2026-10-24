@@ -1,0 +1,471 @@
+{
+  "categories": [
+    { "id": "panjabi", "name": "পাঞ্জাবি", "image": "/images/panjabi-1.jpg" },
+    { "id": "shari", "name": "শাড়ি", "image": "/images/shari-1.jpg" },
+    { "id": "three-piece", "name": "থ্রি-পিস", "image": "/images/three-piece-1.jpg" },
+    { "id": "borka", "name": "বোরকা ও আবায়া", "image": "/images/borka-1.jpg" }
+  ],
+  "products": [
+    {
+      "id": "panjabi-1",
+      "slug": "royal-cotton-embroidered-panjabi",
+      "name": "রয়্যাল কটন এমব্রয়ডারি পাঞ্জাবি",
+      "price": 2450,
+      "category": "panjabi",
+      "image": "/images/panjabi-1.jpg",
+      "rating": 4.8,
+      "reviews": 84,
+      "bestSeller": true,
+      "colors": [
+        { "name": "সোনালী", "hex": "#D4AF37" },
+        { "name": "সাদা", "hex": "#FFFFFF" },
+        { "name": "কালো", "hex": "#1F1F1F" }
+      ],
+      "defaultColor": "সোনালী",
+      "description": "প্রিমিয়াম ১০০% সুতি কাপড়ে নিখুঁত সুতোর কারুকাজ করা আরামদায়ক পাঞ্জাবি। যেকোনো উৎসবের জন্য সেরা পছন্দ।",
+      "details": [
+        "১০০% খাঁটি প্রিমিয়াম কটন ফেব্রিক",
+        "কলার ও প্লাকেটে সূক্ষ্ম এমব্রয়ডারি",
+        "মেটাল বোতাম সংযুক্ত",
+        "রেগুলার ও স্লিম ফিট"
+      ]
+    },
+    {
+      "id": "panjabi-2",
+      "slug": "semi-silk-jacquard-kabli-panjabi",
+      "name": "সেমি-সিল্ক জাকুয়ার্ড কাবলি সেট",
+      "price": 3450,
+      "category": "panjabi",
+      "image": "/images/panjabi-2.jpg",
+      "rating": 4.7,
+      "reviews": 56,
+      "bestSeller": true,
+      "colors": [
+        { "name": "মেরুন", "hex": "#800000" },
+        { "name": "নেভি ব্লু", "hex": "#000080" },
+        { "name": "অলিভ", "hex": "#556B2F" }
+      ],
+      "defaultColor": "মেরুন",
+      "description": "চকচকে সেমি-সিল্ক কাপড়ে জাকুয়ার্ড উইভিং করা এক্সক্লুসিভ কাবলি ও পায়জামা সেট।",
+      "details": [
+        "সেমি-সিল্ক উইভিং ফেব্রিক",
+        "ম্যাচিং পায়জামা অন্তর্ভুক্ত",
+        "পার্টি ও উৎসবের উপযোগী"
+      ]
+    },
+    {
+      "id": "panjabi-3",
+      "slug": "classic-khadi-cotton-panjabi",
+      "name": "ক্লাসিক খাদি কটন পাঞ্জাবি",
+      "price": 1850,
+      "category": "panjabi",
+      "image": "/images/panjabi-3.jpg",
+      "rating": 4.6,
+      "reviews": 42,
+      "bestSeller": false,
+      "colors": [
+        { "name": "অফ-হোয়াইট", "hex": "#F8F5E4" },
+        { "name": "বাদামী", "hex": "#8B5A2B" },
+        { "name": "ছাই", "hex": "#808080" }
+      ],
+      "defaultColor": "অফ-হোয়াইট",
+      "description": "গরমে প্রতিদিনের ব্যবহারের জন্য অত্যন্ত আরামদায়ক খাঁটি খাদি সুতি পাঞ্জাবি।",
+      "details": [
+        "১০০% হ্যান্ডলুম খাদি সুতি",
+        "সহজ কাটিং ও নরম টেক্সচার",
+        "সহজে ধোয়া যায়"
+      ]
+    },
+    {
+      "id": "panjabi-4",
+      "slug": "exclusive-party-designer-panjabi",
+      "name": "এক্সক্লুসিভ ডিজাইনার পার্টি পাঞ্জাবি",
+      "price": 3950,
+      "category": "panjabi",
+      "image": "/images/panjabi-4.jpg",
+      "rating": 4.9,
+      "reviews": 92,
+      "bestSeller": true,
+      "colors": [
+        { "name": "ঘন কালো", "hex": "#111111" },
+        { "name": "রয়্যাল ব্লু", "hex": "#4169E1" }
+      ],
+      "defaultColor": "ঘন কালো",
+      "description": "ভারী এমব্রয়ডারি ও সিকোয়েন্স কারুকাজ করা আভিজাত্যপূর্ণ পার্টি পাঞ্জাবি।",
+      "details": [
+        "সিল্ক ও কটন মিক্সড লাক্সারি ফেব্রিক",
+        "সিকোয়েন্স ও জরি সুতোর কাজ",
+        "উৎসবের কেন্দ্রবিন্দু হতে উপযুক্ত"
+      ]
+    },
+    {
+      "id": "panjabi-5",
+      "slug": "pure-linen-casual-panjabi",
+      "name": "পিওর লিনেন ক্যাজুয়াল পাঞ্জাবি",
+      "price": 2250,
+      "category": "panjabi",
+      "image": "/images/panjabi-5.jpg",
+      "rating": 4.5,
+      "reviews": 31,
+      "bestSeller": false,
+      "colors": [
+        { "name": "হালকা নীল", "hex": "#ADD8E6" },
+        { "name": "জলপাই", "hex": "#6B8E23" },
+        { "name": "সাদা", "hex": "#FFFFFF" }
+      ],
+      "defaultColor": "হালকা নীল",
+      "description": "উন্নত মানের ব্রিদেবল লিনেন ফেব্রিক দিয়ে তৈরি যা সারাদিন স্বস্তি প্রদান করে।",
+      "details": [
+        "১০০% পিওর লিনেন ফেব্রিক",
+        "মিনিমালিস্ট ও এলিগেন্ট লুক",
+        "সাইড পকেট সংযুক্ত"
+      ]
+    },
+
+    {
+      "id": "shari-1",
+      "slug": "dhakai-jamdani-handloom-shari",
+      "name": "ঐতিহ্যবাহী ঢাকাই জামদানি শাড়ি",
+      "price": 6850,
+      "category": "shari",
+      "image": "/images/shari-1.jpg",
+      "rating": 4.9,
+      "reviews": 110,
+      "bestSeller": true,
+      "colors": [
+        { "name": "হলুদ", "hex": "#EAB308" },
+        { "name": "লাল", "hex": "#B91C1C" },
+        { "name": "অফ-হোয়াইট", "hex": "#F5F5DC" }
+      ],
+      "defaultColor": "হলুদ",
+      "description": "ঐতিহ্যবাহী তাঁতীদের নিখুঁত হাতের বুননে তৈরি আসল ঢাকাই জামদানি।",
+      "details": [
+        "৮৪ কাউন্ট সুতোয় হাতে বোনা",
+        "নিখুঁত ফুল ও লতাপাতার কাজ",
+        "ব্লাউজ পিস অন্তর্ভুক্ত",
+        "উৎসব ও বিয়ের জন্য পারফেক্ট"
+      ]
+    },
+    {
+      "id": "shari-2",
+      "slug": "katan-silk-bridal-shari",
+      "name": "কাতান বেনারসি ব্রাইডাল শাড়ি",
+      "price": 8500,
+      "category": "shari",
+      "image": "/images/shari-2.jpg",
+      "rating": 4.9,
+      "reviews": 64,
+      "bestSeller": true,
+      "colors": [
+        { "name": "গাঢ় লাল", "hex": "#8B0000" },
+        { "name": "ম্যাজেন্টা", "hex": "#FF00FF" },
+        { "name": "রয়্যাল ব্লু", "hex": "#1E3A8A" }
+      ],
+      "defaultColor": "গাঢ় লাল",
+      "description": "জমকালো মিনাকারি ও উজ্জ্বল জরির কাজে বোনা খাঁটি কাতান ব্রাইডাল শাড়ি।",
+      "details": [
+        "খাঁটি কাতান সিল্ক ফিনিশিং",
+        "ভারী আঁচল ও অল-ওভার বুটি",
+        "রানিং ব্লাউজ পিস সহ"
+      ]
+    },
+    {
+      "id": "shari-3",
+      "slug": "tangail-cotton-tant-shari",
+      "name": "টাঙ্গাইল তাঁতের সুতি শাড়ি",
+      "price": 1650,
+      "category": "shari",
+      "image": "/images/shari-3.jpg",
+      "rating": 4.6,
+      "reviews": 75,
+      "bestSeller": false,
+      "colors": [
+        { "name": "গোলাপি", "hex": "#F472B6" },
+        { "name": "আকাশি", "hex": "#38BDF8" },
+        { "name": "কমলা", "hex": "#FB923C" }
+      ],
+      "defaultColor": "গোলাপি",
+      "description": "দৈনন্দিন পরার জন্য অত্যন্ত নরম ও আরামদায়ক ১০০% টাঙ্গাইল তাঁতের শাড়ি।",
+      "details": [
+        "১০০% ফাইন কটন সুতো",
+        "হালকা ও বাতাস চলাচলের উপযোগী",
+        "টেকসই কালার গ্যারান্টি"
+      ]
+    },
+    {
+      "id": "shari-4",
+      "slug": "georgette-embroidered-party-shari",
+      "name": "জর্জেট এমব্রয়ডারি পার্টি শাড়ি",
+      "price": 4200,
+      "category": "shari",
+      "image": "/images/shari-4.jpg",
+      "rating": 4.7,
+      "reviews": 53,
+      "bestSeller": false,
+      "colors": [
+        { "name": "কালো", "hex": "#18181B" },
+        { "name": "মেরুন", "hex": "#7F1D1D" },
+        { "name": "পেস্ট", "hex": "#5EEAD4" }
+      ],
+      "defaultColor": "কালো",
+      "description": "ওয়েটলেস জর্জেট কাপড়ে সূক্ষ্ম সুতো ও সিকোয়েন্স এমব্রয়ডারি করা স্টাইলিশ শাড়ি।",
+      "details": [
+        "ওয়েটলেস সফট জর্জেট",
+        "ডিজাইনার সিকোয়েন্স বর্ডার",
+        "ম্যাচিং গ্লসি ব্লাউজ পিস"
+      ]
+    },
+    {
+      "id": "shari-5",
+      "slug": "monipuri-handloom-cotton-shari",
+      "name": "মনিপুরী হ্যান্ডলুম সুতি শাড়ি",
+      "price": 2250,
+      "category": "shari",
+      "image": "/images/shari-5.jpg",
+      "rating": 4.8,
+      "reviews": 39,
+      "bestSeller": false,
+      "colors": [
+        { "name": "সরিষা হলুদ", "hex": "#CA8A04" },
+        { "name": "সবুজ", "hex": "#16A34A" },
+        { "name": "লাল", "hex": "#DC2626" }
+      ],
+      "defaultColor": "সরিষা হলুদ",
+      "description": "আসল মনিপুরী তাঁতের জ্যামিতিক নকশায় বোনা আকর্ষণীয় ঐতিহ্যবাহী শাড়ি।",
+      "details": [
+        "খাঁটি মনিপুরী হ্যান্ডলুম বুনন",
+        "ঐতিহ্যবাহী মন্দির পাড় ডিজাইন",
+        "আরামদায়ক ও টেকসই"
+      ]
+    },
+
+    {
+      "id": "three-piece-1",
+      "slug": "digital-print-cotton-lawn-threepiece",
+      "name": "ডিজিটাল প্রিন্ট কটন লন থ্রি-পিস",
+      "price": 2850,
+      "category": "three-piece",
+      "image": "/images/three-piece-1.jpg",
+      "rating": 4.8,
+      "reviews": 67,
+      "bestSeller": true,
+      "colors": [
+        { "name": "পিচ", "hex": "#FDBA74" },
+        { "name": "আকাশি", "hex": "#7DD3FC" },
+        { "name": "ল্যাভেন্ডার", "hex": "#D8B4FE" }
+      ],
+      "defaultColor": "পিচ",
+      "description": "প্রিমিয়াম কোয়ালিটির কটন লনে আধুনিক ডিজিটাল প্রিন্ট ও আরামদায়ক সুতি ওড়না।",
+      "details": [
+        "কামিজ: ১০০% প্রিমিয়াম লন সুতি",
+        "ওড়না: বড় সুতি নমাযি ওড়না",
+        "সালোয়ার: ম্যাচিং সফট কটন"
+      ]
+    },
+    {
+      "id": "three-piece-2",
+      "slug": "boutique-handwork-cotton-threepiece",
+      "name": "বুটিক হ্যান্ডওয়ার্ক কটন থ্রি-পিস",
+      "price": 3450,
+      "category": "three-piece",
+      "image": "/images/three-piece-2.jpg",
+      "rating": 4.7,
+      "reviews": 48,
+      "bestSeller": false,
+      "colors": [
+        { "name": "হলুদ", "hex": "#FACC15" },
+        { "name": "সাদা", "hex": "#FFFFFF" },
+        { "name": "নেভি ব্লু", "hex": "#1E3A8A" }
+      ],
+      "defaultColor": "হলুদ",
+      "description": "গলায় ও দামানে হাতের নিখুঁত সুতোর নকশিকাঁথা কাজের আনস্টিচড বুটিক থ্রি-পিস।",
+      "details": [
+        "হ্যান্ডক্রাফটেড সুতোর কাজ",
+        "খাঁটি সুতি আরামদায়ক কাপড়",
+        "আনস্টিচড (যেকোনো সাইজে সেলাই উপযোগী)"
+      ]
+    },
+    {
+      "id": "three-piece-3",
+      "slug": "festive-kashmiri-silk-threepiece",
+      "name": "ফেস্টিভ কাশ্মিরী সিল্ক থ্রি-পিস",
+      "price": 4650,
+      "category": "three-piece",
+      "image": "/images/three-piece-3.jpg",
+      "rating": 4.9,
+      "reviews": 82,
+      "bestSeller": true,
+      "colors": [
+        { "name": "মেরুন", "hex": "#991B1B" },
+        { "name": "রয়্যাল ব্লু", "hex": "#2563EB" }
+      ],
+      "defaultColor": "মেরুন",
+      "description": "চকচকে কাশ্মিরী সিল্ক ও জমকালো ওড়না সহ রাজকীয় ফেস্টিভ থ্রি-পিস।",
+      "details": [
+        "কামিজ: কাশ্মিরী সিল্ক উইথ জরি এমব্রয়ডারি",
+        "ওড়না: ভারী জাকুয়ার্ড সিল্ক",
+        "উৎসবের জন্য পারফেক্ট"
+      ]
+    },
+    {
+      "id": "three-piece-4",
+      "slug": "casual-linen-embroidered-threepiece",
+      "name": "ক্যাজুয়াল লিনেন এমব্রয়ডারি থ্রি-পিস",
+      "price": 2250,
+      "category": "three-piece",
+      "image": "/images/three-piece-4.jpg",
+      "rating": 4.5,
+      "reviews": 29,
+      "bestSeller": false,
+      "colors": [
+        { "name": "অলিভ", "hex": "#65A30D" },
+        { "name": "ছাই", "hex": "#71717A" },
+        { "name": "বেবি পিঙ্ক", "hex": "#F472B6" }
+      ],
+      "defaultColor": "অলিভ",
+      "description": "অফিস, কলেজ বা ঘরোয়া ব্যবহারের জন্য সিম্পল ও মার্জিত লিনেন থ্রি-পিস।",
+      "details": [
+        "সফট লিনেন ফেব্রিক",
+        "মিনিমালিস্ট থ্রেড এমব্রয়ডারি",
+        "সারাদিন পরার উপযোগী"
+      ]
+    },
+    {
+      "id": "three-piece-5",
+      "slug": "organza-dupatta-party-threepiece",
+      "name": "অর্গানজা ওড়না পার্টি থ্রি-পিস",
+      "price": 5200,
+      "category": "three-piece",
+      "image": "/images/three-piece-5.jpg",
+      "rating": 4.9,
+      "reviews": 91,
+      "bestSeller": true,
+      "colors": [
+        { "name": "মিষ্টি গোলাপি", "hex": "#FB7185" },
+        { "name": "সি-গ্রিন", "hex": "#34D399" }
+      ],
+      "defaultColor": "মিষ্টি গোলাপি",
+      "description": "প্রিমিয়াম জর্জেট কামিজ ও কাটওয়ার্ক অর্গানজা ওড়না সহ ট্রেন্ডি পার্টি পোশাক।",
+      "details": [
+        "কাটওয়ার্ক এমব্রয়ডারি অর্গানজা ওড়না",
+        "ইনার সহ প্রিমিয়াম কামিজ ফেব্রিক",
+        "লেটেস্ট ট্রেন্ডি ডিজাইন"
+      ]
+    },
+
+    {
+      "id": "borka-1",
+      "slug": "dubai-cherry-fabric-simple-abaya",
+      "name": "দুবাই চেরি ফ্যাব্রিক সিম্পল আবায়া",
+      "price": 2850,
+      "category": "borka",
+      "image": "/images/borka-1.jpg",
+      "rating": 4.8,
+      "reviews": 95,
+      "bestSeller": true,
+      "colors": [
+        { "name": "জেট ব্ল্যাক", "hex": "#000000" },
+        { "name": "চকলেট", "hex": "#451A03" },
+        { "name": "গ্রে", "hex": "#52525B" }
+      ],
+      "defaultColor": "জেট ব্ল্যাক",
+      "description": "আসল দুবাই চেরি কাপড়ে তৈরি অত্যন্ত আরামদায়ক ও রুচিশীল সিম্পল আবায়া।",
+      "details": [
+        "অরিজিনাল দুবাই চেরি ফেব্রিক",
+        "কুঁচি হাতা ও লুজ ফিটিং",
+        "ম্যাচিং হিজাব অন্তর্ভুক্ত"
+      ]
+    },
+    {
+      "id": "borka-2",
+      "slug": "exclusive-stonework-party-borka",
+      "name": "এক্সক্লুসিভ স্টোনওয়ার্ক পার্টি বোরকা",
+      "price": 4500,
+      "category": "borka",
+      "image": "/images/borka-2.jpg",
+      "rating": 4.9,
+      "reviews": 88,
+      "bestSeller": true,
+      "colors": [
+        { "name": "কালো", "hex": "#18181B" },
+        { "name": "নেভি ব্লু", "hex": "#1E3A8A" },
+        { "name": "গাঢ় মেরুন", "hex": "#7F1D1D" }
+      ],
+      "defaultColor": "কালো",
+      "description": "সামনে ও হাতায় নিখুঁত অরিজিনাল ডিএমসি স্টোনওয়ার্ক করা জমকালো পার্টি বোরকা।",
+      "details": [
+        "প্রিমিয়াম নাদা ফেব্রিক",
+        "চকচকে টেকসই স্টোনওয়ার্ক",
+        "ফ্রন্ট ওপেন বাটন ও স্টাইলিশ বেল্ট"
+      ]
+    },
+    {
+      "id": "borka-3",
+      "slug": "koti-style-front-open-borka",
+      "name": "কোটি স্টাইল ফ্রন্ট-ওপেন ক্যাজুয়াল বোরকা",
+      "price": 3250,
+      "category": "borka",
+      "image": "/images/borka-3.jpg",
+      "rating": 4.7,
+      "reviews": 46,
+      "bestSeller": false,
+      "colors": [
+        { "name": "অফ-হোয়াইট ও কালো", "hex": "#3F3F46" },
+        { "name": "কফি ও কালো", "hex": "#78350F" }
+      ],
+      "defaultColor": "অফ-হোয়াইট ও কালো",
+      "description": "আলাদা করে পরার মতো স্টাইলিশ কোটি সহ আধুনিক ট্রেন্ডি ফ্রন্ট ওপেন বোরকা।",
+      "details": [
+        "টু-পিস কোটি সেট ডিজাইন",
+        "লুজ ও কমফোর্টেবল মডেস্ট কাট",
+        "দৈনন্দিন ও অফিস ব্যবহারের উপযোগী"
+      ]
+    },
+    {
+      "id": "borka-4",
+      "slug": "umbrella-cut-flared-abaya",
+      "name": "আমব্রেলা কাট ফ্লেয়ার্ড প্রিমিয়াম আবায়া",
+      "price": 3650,
+      "category": "borka",
+      "image": "/images/borka-4.jpg",
+      "rating": 4.8,
+      "reviews": 61,
+      "bestSeller": false,
+      "colors": [
+        { "name": "রয়্যাল ব্ল্যাক", "hex": "#09090B" },
+        { "name": "আর্মি গ্রিন", "hex": "#3F6212" },
+        { "name": "ডিপ টিল", "hex": "#115E59" }
+      ],
+      "defaultColor": "রয়্যাল ব্ল্যাক",
+      "description": "বিশাল ঘেরের আমব্রেলা কাটিং আবায়া। মার্জিত ও পরিশীলিত ব্যক্তিত্ব প্রকাশ করে।",
+      "details": [
+        "১২০+ ইঞ্চি আমব্রেলা ফ্লেয়ার",
+        "সফট জর্জেট লাইটওয়েট ফেব্রিক",
+        "স্মোকি ইলাস্টিক হাতা"
+      ]
+    },
+    {
+      "id": "borka-5",
+      "slug": "modest-daily-wear-borka-with-khimar",
+      "name": "মডেস্ট খিমার সেট ডেইলি ওয়্যার বোরকা",
+      "price": 2450,
+      "category": "borka",
+      "image": "/images/borka-5.jpg",
+      "rating": 4.6,
+      "reviews": 57,
+      "bestSeller": false,
+      "colors": [
+        { "name": "কালো", "hex": "#000000" },
+        { "name": "নেভি ব্লু", "hex": "#172554" },
+        { "name": "অলিভ গ্রিন", "hex": "#365314" }
+      ],
+      "defaultColor": "কালো",
+      "description": "লং খিমার ও স্কার্ট কম্বিনেশনে সম্পূর্ণ শরিয়া সম্মত আরামদায়ক প্রতিদিনের বোরকা।",
+      "details": [
+        "ফুল কভারেজ লং খিমার সহ সেট",
+        "ব্রিদেবল প্রিমিয়াম জর্জেট",
+        "নামায ও যাতায়াতের জন্য দারুণ আরামদায়ক"
+      ]
+    }
+  ]
+}

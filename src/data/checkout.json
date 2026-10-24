@@ -1,0 +1,73 @@
+{
+  "steps": ["ঠিকানা", "পেমেন্ট মাধ্যম", "নিশ্চিতকরণ"],
+  "shippingFields": [
+    {
+      "name": "fullName",
+      "label": "আপনার পূর্ণ নাম",
+      "type": "text",
+      "autoComplete": "name",
+      "placeholder": "যেমন: তানভীর আহমেদ",
+      "span": 2
+    },
+    {
+      "name": "phone",
+      "label": "মোবাইল নম্বর",
+      "type": "tel",
+      "autoComplete": "tel",
+      "placeholder": "০১৭১১-XXXXXX",
+      "span": 2
+    },
+    {
+      "name": "email",
+      "label": "ইমেইল (ঐচ্ছিক)",
+      "type": "email",
+      "autoComplete": "email",
+      "placeholder": "tanvir@example.com",
+      "span": 2
+    },
+    {
+      "name": "city",
+      "label": "জেলা / শহর",
+      "type": "text",
+      "autoComplete": "address-level2",
+      "placeholder": "যেমন: ঢাকা",
+      "span": 1
+    },
+    {
+      "name": "postalCode",
+      "label": "থানা / পোস্ট কোড",
+      "type": "text",
+      "autoComplete": "postal-code",
+      "placeholder": "যেমন: ধানমন্ডি, ১২০৫",
+      "span": 1
+    },
+    {
+      "name": "address",
+      "label": "সম্পূর্ণ ঠিকানা (রোড, বাড়ি নং)",
+      "type": "text",
+      "autoComplete": "street-address",
+      "placeholder": "বাড়ি নম্বর, রোড নম্বর, এলাকা...",
+      "span": 2
+    }
+  ],
+  "paymentMethods": [
+    {
+      "id": "cod",
+      "label": "ক্যাশ অন ডেলিভারি (পণ্য হাতে পেয়ে মূল্য দিন)",
+      "icon": "package"
+    },
+    { "id": "bkash", "label": "বিকাশ পেমেন্ট (bKash)", "badge": "bKash" },
+    { "id": "nagad", "label": "নগদ পেমেন্ট (Nagad)", "badge": "Nagad" },
+    {
+      "id": "card",
+      "label": "ক্রেডিট / ডেবিট কার্ড",
+      "badges": ["VISA", "Mastercard"]
+    }
+  ],
+  "placed": {
+    "title": "আপনার অর্ডারটি সফল হয়েছে!",
+    "text": "জাইরা-র সাথে থাকার জন্য ধন্যবাদ। খুব শীঘ্রই আমাদের প্রতিনিধি আপনার সাথে যোগাযোগ করবেন।",
+    "image": "",
+    "imageAlt": "অর্ডার সফল প্লেসহোল্ডার"
+  }
+}
