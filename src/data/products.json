@@ -2,8 +2,12 @@
   "categories": [
     { "id": "panjabi", "name": "পাঞ্জাবি", "image": "/images/panjabi-1.jpg" },
     { "id": "shari", "name": "শাড়ি", "image": "/images/shari-1.jpg" },
-    { "id": "three-piece", "name": "থ্রি-পিস", "image": "/images/three-piece-1.jpg" },
-    { "id": "borka", "name": "বোরকা ও আবায়া", "image": "/images/borka-1.jpg" }
+    {
+      "id": "three-piece",
+      "name": "থ্রি-পিস",
+      "image": "/images/three-piece-1.jpg"
+    },
+    { "id": "borka", "name": "বোরকা", "image": "/images/borka-1.jpg" }
   ],
   "products": [
     {

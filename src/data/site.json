@@ -1,11 +1,11 @@
 {
-  "name": "জাইরা",
+  "name": " ",
   "tagline": "ঐতিহ্য ও আভিজাত্যের নিখুঁত মেলবন্ধন",
   "description": "প্রিমিয়াম কোয়ালিটির এক্সক্লুসিভ পাঞ্জাবি ও খাঁটি দেশীয় শাড়ির বিশ্বস্ত প্রতিষ্ঠান।",
   "currency": "৳",
   "logo": {
-    "icon": "",
-    "iconFooter": ""
+    "icon": "/images/logo-header.png",
+    "iconFooter": "/images/logo.png"
   },
   "nav": [
     { "label": "হোম", "href": "/" },
@@ -45,11 +45,7 @@
   },
   "social": [
     { "name": "Facebook", "icon": "facebook", "href": "https://facebook.com" },
-    {
-      "name": "Instagram",
-      "icon": "instagram",
-      "href": "https://instagram.com"
-    },
+
     { "name": "TikTok", "icon": "tiktok", "href": "https://tiktok.com" },
     { "name": "YouTube", "icon": "youtube", "href": "https://youtube.com" }
   ],

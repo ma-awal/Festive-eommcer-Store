@@ -25,7 +25,7 @@ export default function AboutPage() {
       <section className="py-12 sm:py-16">
         <Container className="grid items-center gap-10 lg:grid-cols-2 lg:gap-16">
           <Reveal variant="left">
-            <div className="relative aspect-[4/3] w-full overflow-hidden rounded-[28px] border border-cream-200 bg-cream-100 shadow-lift">
+            <div className="relative aspect-[4/4] w-full overflow-hidden rounded-[28px] border border-cream-200 bg-cream-100 shadow-lift">
               {about.image ? (
                 <Image
                   src={about.image}
